@@ -1,0 +1,27 @@
+_repo: A-matter-of-size_69292
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mines, Samuel
+    birthdate: 1909
+    deathdate: 1998
+    gutenberg_agent_id: '54777'
+    url: http://www.gutenberg.org/2009/agents/54777
+description: ''
+gutenberg_issued: '2022-11-04'
+identifiers:
+  gutenberg: '69292'
+language: en
+pgterms:marc905: 20220512085127mines
+pgterms:marc906: '1946'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1946.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A matter of size
+url: http://www.gutenberg.org/ebooks/69292
