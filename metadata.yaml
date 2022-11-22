@@ -1,5 +1,8 @@
 _repo: A-matter-of-size_69292
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69292-h/images/cover.jpg
 creator:
   author:
     agent_name: Mines, Samuel
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '54777'
     url: http://www.gutenberg.org/2009/agents/54777
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69292#A-matter-of-size
 gutenberg_issued: '2022-11-04'
 identifiers:
   gutenberg: '69292'
